@@ -9,7 +9,7 @@
 ## 🔥 About Me  
 
 I am a **PMP®-certified IT professional** with 5+ years of experience in **IT infrastructure, project coordination, and data analysis**.  
-I bridge the gap between **business needs** and **technical execution**, using tools like **Power BI, SQL, and Python** to deliver insights that drive impact.  
+I bridge the gap between **business needs** and **technical execution**, using tools like **Excel, Power BI, SQL, and Python** to deliver insights that drive impact.  
 
 - 📊 Skilled in **data visualization & dashboards** (Power BI, Tableau)  
 - 🐍 Proficient in **Python for data analysis** (`pandas`, `numpy`, `matplotlib`)  
@@ -45,31 +45,13 @@ Here are some of my key projects (links will be updated as repositories are publ
 
 - **Languages:** Python, SQL, DAX  
 - **Data Tools:** Power BI, Tableau, Excel (Advanced)  
-- **Project Tools:** MS Project, JIRA, Trello  
+- **Project Tools:** MS Project, JIRA, Trello, MS Planner  
 - **Other:** SharePoint, Cisco SDN, DevOps principles  
 
----
+---  
 
-## 📁 Repository Structure  
 
-```bash
-├── README.md                # Introduction & portfolio overview
-├── projects/                # Main folder for portfolio projects
-│   ├── powerbi-it-dashboard/
-│   │   ├── report.pbix      # Power BI dashboard file
-│   │   └── README.md        # Project description
-│   ├── python-data-cleaning/
-│   │   ├── notebook.ipynb   # Jupyter notebook
-│   │   └── README.md        # Project description
-│   ├── sql-mining-analysis/
-│   │   ├── queries.sql      # SQL queries
-│   │   └── README.md        # Project description
-│   └── sharepoint-migration/
-│       └── README.md        # Project description & results
-└── assets/                  # Images, visuals, screenshots for projects
 📫 Connect With Me
 🔗 LinkedIn
-
 ✉️ timothekabwe@gmail.com
 
-🌐 Portfolio Website: Coming Soon
