@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Timothée Kabwe  
 
-🎯 **Data Analyst and Data Scientist | PMP® | ITIL® V4 | Lean Six Sigma Green Belt**  
+🎯 **Data Analyst and Data Scientist | PMP® | ITIL® V4 | Lean Six Sigma Green Belt| Speaker PMI | MCT in Progress**  
 💡 Passionate about **data-driven decision making**, **IT transformation**, and **operational efficiency**.  
 🌍 Based in Kolwezi, DRC | Open to site, remote & international opportunities.  
 
