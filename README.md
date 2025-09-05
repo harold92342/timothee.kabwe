@@ -39,10 +39,10 @@ Here are some of my key projects (links will be updated as repositories are publ
 5. **[SharePoint Migration Analysis](PMI DRC CHAPTER)**  
    🌐 Managed **data migration for 100+ users** at PMI-RDC.  
    ⚡ Automated approval workflows & reduced transition downtime by 40%.
-6. **[ Excel Sales & Analytics Report – Atliq Company](http://bit.ly/42ibvbZ)
-    📊 Designed a sales and financial analytics report to evaluate performance across markets (2019–2021), identifying top customers and growth opportunities.
-    🗄️ Applied ETL processes, Power Query, Power Pivot, and DAX to build a robust analytical data model with fiscal calendar intelligence.
-    📈 Delivered actionable insights on sales trends, profitability, and growth strategies, improving decision-making for retail and e-commerce channels.
+6. **[ Excel Sales & Analytics Report – Atliq Company](http://bit.ly/42ibvbZ)**
+   📊 Designed a sales and financial analytics report to evaluate performance across markets (2019–2021), identifying top customers and growth opportunities.
+   🗄️ Applied ETL processes, Power Query, Power Pivot, and DAX to build a robust analytical data model with fiscal calendar intelligence.
+   📈 Delivered actionable insights on sales trends, profitability, and growth strategies, improving decision-making for retail and e-commerce channels.
 
 ---
 
